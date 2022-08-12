@@ -1,0 +1,229 @@
+.header {
+    height: 30%;
+    width: 100%;
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: coral;
+}
+
+.text1 {
+    font-family: cursive;
+    font-size: 34px;
+    color: beige;
+    text-align: center;
+
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    position: absolute;
+    margin-left: 700px;
+    width: 100px;
+    height: 30px;
+
+}
+
+.profile1 {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 250px;
+    height: 60%;
+    width: 40%;
+    border: 2px solid;
+}
+
+.profile2 {
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 250px;
+    height: 60%;
+    width: 40%;
+    border: 2px solid;
+}
+
+.register {
+    position: absolute;
+    margin-top: 700px;
+    width: 100%;
+    height: 80%;
+    background-color: coral;
+}
+
+.registerImage {
+    height: 70%;
+    width: 50%;
+    align-content: center;
+    margin-left: 100PX;
+    position: absolute;
+}
+
+.form {
+    height: 70%;
+    width: 30%;
+    align-content: center;
+    margin-left: 900PX;
+    position: absolute;
+}
+
+::placeholder {
+    width: 800px;
+    color: beige;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+.in {
+    margin-left: 150px;
+    border: none;
+    border-bottom: 1px solid white;
+    width: 300px;
+    color: beige;
+    background-color: coral;
+}
+
+.button2 {
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    position: absolute;
+    margin-left: 80px;
+    width: 100px;
+    height: 30px;
+
+}
+
+.footer {
+    height: 25%;
+    width: 100%;
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: coral;
+    margin-top: 1250px;
+}
+
+.list1 {
+    color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 500px;
+    position: absolute;
+}
+
+.list2 {
+    color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 700px;
+    position: absolute;
+}
+
+.list3 {
+    color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 900px;
+    position: absolute;
+}
+
+.icon {
+    margin-left: 670px;
+    margin-top: 110px;
+    position: absolute;
+}
+
+iframe {
+    width: 40%;
+    height: 40%;
+    border: 2px solid;
+    position: absolute;
+    margin-left: 400PX;
+    margin-top: 100PX;
+    background-color: coral;
+    color: beige;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.button3 {
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    position: absolute;
+    margin-left: 250px;
+    width: 100px;
+    height: 30px;
+
+}
+
+.profile2 iframe {
+    height: 70%;
+    width: 90%;
+    background-color: none;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 10px;
+    background-color: white;
+    border: none;
+}
+
+.upload {
+    margin-top: 330px;
+    position: absolute;
+    margin-left: 200px;
+}
+
+.personaldetails {
+    height: 90%;
+    width: 70%;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.personaldetails table {
+    height: 80%;
+    width: 80%;
+    border: 2px solid;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 100px;
+    padding: 2px;
+}
+
+.middle {
+    height: 70%;
+    width: 100%;
+    margin-top: 730px;
+    position: absolute;
+    background-color: antiquewhite;
+
+}
+
+.video1 {
+    width: 30%;
+    height: 90%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.audio1 {
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 530px;
+}
+
+.plugin1 {
+    width: 30%;
+    height: 90%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1030px;
+}
+
+.plugin1 iframe {
+    margin-left: 10px;
+    height: 95%;
+    width: 95%;
+    margin-top: 10px;
+}
